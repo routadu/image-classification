@@ -1,0 +1,47 @@
+
+# Miscellaneous
+/Flutter/*.class
+/Flutter/*.log
+/Flutter/*.pyc
+/Flutter/*.swp
+/Flutter/.DS_Store
+/Flutter/.atom/
+/Flutter/.buildlog/
+/Flutter/.history
+/Flutter/.svn/
+
+# IntelliJ related
+/Flutter/*.iml
+/Flutter/*.ipr
+/Flutter/*.iws
+/Flutter/.idea/
+
+# Flutter/Dart/Pub related
+/Flutter/**/doc/api/
+/Flutter/**/ios/Flutter/.last_build_id
+/Flutter/.dart_tool/
+/Flutter/.flutter-plugins
+/Flutter/.flutter-plugins-dependencies
+/Flutter/.packages
+/Flutter/.pub-cache/
+/Flutter/.pub/
+/Flutter/build/
+
+# Web related
+lib/generated_plugin_registrant.dart
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+/Flutter/android/app/debug
+/Flutter/android/app/profile
+/Flutter/android/app/release
+
+.vscode
+
+#CIFAR-100-Python
+/Python/cifar-100-python/*
+!readme.txt
